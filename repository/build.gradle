@@ -1,0 +1,6 @@
+dependencies {
+	
+	compile project(':model')
+	
+	runtime 'org.hsqldb:hsqldb'
+}
